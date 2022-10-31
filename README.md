@@ -9,3 +9,8 @@ cd my-app
 npm i
 
 
+## Screens
+
+![Before Connect to Wallet Screen](/01.png "Before")
+![After Connect to Wallet ](/02.png "After")
+
